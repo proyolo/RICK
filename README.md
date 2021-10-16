@@ -1,0 +1,2 @@
+# RICK
+ primeiro repositorio 
